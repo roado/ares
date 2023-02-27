@@ -2,6 +2,7 @@ owner: roado
 repo: uptime
 # Uncomment for a self-hosted runner
 # runner: "[self-hosted, linux, ARM64]"
+# WARN: Don't change the commit messages they seem to break the uptime status
 
 workflowSchedule:
   graphs: "0 0 * * *"
@@ -11,12 +12,6 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
-
-commitMessages:
-  readmeContent: ":pencil: Update summary in README"
-  summaryJson: ":card_file_box: Update status summary"
-  statusChange: "$EMOJI $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms)"
-  graphsUpdate: ":bento: Update graphs"
 
 sites:
   - name: Landing Page
