@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.94%",
-    "time": 1610,
-    "timeDay": 1679,
-    "timeWeek": 1613,
-    "timeMonth": 1598,
-    "timeYear": 1610,
+    "time": 1609,
+    "timeDay": 1469,
+    "timeWeek": 1598,
+    "timeMonth": 1592,
+    "timeYear": 1609,
     "dailyMinutesDown": {
       "2023-06-11": 107
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 201,
-    "timeDay": 69,
-    "timeWeek": 99,
-    "timeMonth": 104,
-    "timeYear": 201,
+    "time": 200,
+    "timeDay": 30,
+    "timeWeek": 82,
+    "timeMonth": 101,
+    "timeYear": 200,
     "dailyMinutesDown": {
       "2023-04-25": 178
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 130,
-    "timeDay": 64,
-    "timeWeek": 88,
-    "timeMonth": 126,
-    "timeYear": 130,
+    "time": 129,
+    "timeDay": 29,
+    "timeWeek": 81,
+    "timeMonth": 124,
+    "timeYear": 129,
     "dailyMinutesDown": {
       "2023-04-19": 17
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 155,
-    "timeWeek": 80,
-    "timeMonth": 123,
+    "timeDay": 65,
+    "timeWeek": 82,
+    "timeMonth": 122,
     "timeYear": 123,
     "dailyMinutesDown": {}
   },
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.94%",
-    "time": 945,
-    "timeDay": 970,
-    "timeWeek": 921,
-    "timeMonth": 947,
-    "timeYear": 945,
+    "time": 944,
+    "timeDay": 835,
+    "timeWeek": 910,
+    "timeMonth": 943,
+    "timeYear": 944,
     "dailyMinutesDown": {
       "2023-06-11": 107
     }
@@ -103,15 +103,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.roado.co.in.ico",
     "slug": "mdash",
     "status": "up",
-    "uptime": "62.33%",
+    "uptime": "62.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "62.33%",
+    "uptimeYear": "62.65%",
     "time": 239,
-    "timeDay": 232,
-    "timeWeek": 232,
-    "timeMonth": 286,
+    "timeDay": 206,
+    "timeWeek": 231,
+    "timeMonth": 285,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2023-06-11": 107,
