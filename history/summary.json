@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.94%",
-    "time": 1607,
-    "timeDay": 1443,
-    "timeWeek": 1597,
-    "timeMonth": 1586,
-    "timeYear": 1607,
+    "time": 1606,
+    "timeDay": 1467,
+    "timeWeek": 1599,
+    "timeMonth": 1579,
+    "timeYear": 1606,
     "dailyMinutesDown": {
       "2023-06-11": 107
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 198,
-    "timeDay": 42,
-    "timeWeek": 82,
-    "timeMonth": 101,
+    "timeDay": 198,
+    "timeWeek": 94,
+    "timeMonth": 99,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2023-04-25": 178
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 128,
-    "timeDay": 36,
-    "timeWeek": 81,
-    "timeMonth": 92,
-    "timeYear": 128,
+    "time": 127,
+    "timeDay": 41,
+    "timeWeek": 79,
+    "timeMonth": 89,
+    "timeYear": 127,
     "dailyMinutesDown": {
       "2023-04-19": 17
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 42,
-    "timeWeek": 84,
-    "timeMonth": 122,
-    "timeYear": 122,
+    "time": 124,
+    "timeDay": 326,
+    "timeWeek": 118,
+    "timeMonth": 100,
+    "timeYear": 124,
     "dailyMinutesDown": {}
   },
   {
@@ -89,9 +89,9 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.94%",
     "time": 944,
-    "timeDay": 854,
-    "timeWeek": 910,
-    "timeMonth": 940,
+    "timeDay": 1034,
+    "timeWeek": 938,
+    "timeMonth": 941,
     "timeYear": 944,
     "dailyMinutesDown": {
       "2023-06-11": 107
@@ -103,15 +103,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.roado.co.in.ico",
     "slug": "mdash",
     "status": "up",
-    "uptime": "62.97%",
+    "uptime": "63.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "62.97%",
+    "uptimeYear": "63.28%",
     "time": 238,
-    "timeDay": 202,
+    "timeDay": 207,
     "timeWeek": 230,
-    "timeMonth": 285,
+    "timeMonth": 284,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2023-06-11": 107,
