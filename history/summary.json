@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.94%",
-    "time": 1605,
-    "timeDay": 1542,
-    "timeWeek": 1539,
-    "timeMonth": 1582,
-    "timeYear": 1605,
+    "time": 1606,
+    "timeDay": 1651,
+    "timeWeek": 1535,
+    "timeMonth": 1576,
+    "timeYear": 1606,
     "dailyMinutesDown": {
       "2023-06-11": 107
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 197,
-    "timeDay": 56,
-    "timeWeek": 100,
-    "timeMonth": 104,
+    "timeDay": 194,
+    "timeWeek": 118,
+    "timeMonth": 99,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2023-04-25": 178
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 126,
-    "timeDay": 43,
-    "timeWeek": 56,
-    "timeMonth": 83,
+    "timeDay": 137,
+    "timeWeek": 66,
+    "timeMonth": 84,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2023-04-19": 17
@@ -71,8 +71,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 54,
-    "timeWeek": 115,
+    "timeDay": 148,
+    "timeWeek": 114,
     "timeMonth": 96,
     "timeYear": 123,
     "dailyMinutesDown": {}
@@ -89,9 +89,9 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.94%",
     "time": 944,
-    "timeDay": 886,
-    "timeWeek": 920,
-    "timeMonth": 944,
+    "timeDay": 1012,
+    "timeWeek": 926,
+    "timeMonth": 939,
     "timeYear": 944,
     "dailyMinutesDown": {
       "2023-06-11": 107
@@ -103,15 +103,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.roado.co.in.ico",
     "slug": "mdash",
     "status": "up",
-    "uptime": "64.17%",
+    "uptime": "64.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "64.17%",
+    "uptimeYear": "64.47%",
     "time": 238,
-    "timeDay": 217,
-    "timeWeek": 216,
-    "timeMonth": 284,
+    "timeDay": 241,
+    "timeWeek": 218,
+    "timeMonth": 286,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2023-06-11": 107,
