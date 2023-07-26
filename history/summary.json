@@ -4,9 +4,9 @@
     "url": "https://www.roado.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/www.roado.co.in.ico",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 1592,
     "timeYear": 1604,
     "dailyMinutesDown": {
+      "2023-07-26": 0,
       "2023-06-11": 107
     }
   },
@@ -103,11 +104,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.roado.co.in.ico",
     "slug": "mdash",
     "status": "up",
-    "uptime": "70.44%",
+    "uptime": "70.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.44%",
+    "uptimeYear": "70.52%",
     "time": 244,
     "timeDay": 252,
     "timeWeek": 232,
