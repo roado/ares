@@ -1,7 +1,7 @@
 url: https://api.roado.co.in/fleet/api/health-check
-status: down
-code: 502
-responseTime: 216
-lastUpdated: 2023-08-25T14:33:13.647Z
+status: up
+code: 200
+responseTime: 372
+lastUpdated: 2023-08-25T14:40:58.500Z
 startTime: 2023-02-27T06:57:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
